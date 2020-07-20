@@ -1,4 +1,12 @@
-### Hi there 👋
+## 🔭  Senior Mobile Developer [![HitCount](http://hits.dwyl.com/jbotero/jboteros.svg)](http://hits.dwyl.com/jbotero/jboteros)
+
+` 😄 Johnatan Botero Sannchez` |  `🌱 Medellín, Colombia` | <a href="https://www.linkedin.com/in/jboteros/" target="_blank"><img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/></a> `linkedin.com/in/jboteros/`
+
+
+### Hi there 👋 
+
+Senior mobile engineer with proven experience in the development of innovative products and interactive projects, focusing on applications for Android and iOS devices.
+
 
 <!--
 **jboteros/jboteros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
