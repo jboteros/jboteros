@@ -1,4 +1,5 @@
-## 🔭  Senior Mobile Developer [![HitCount](http://hits.dwyl.com/jbotero/jboteros.svg)](http://hits.dwyl.com/jbotero/jboteros)
+## 🔭  Senior Mobile Developer [![HitCount](http://hits.dwyl.com/jboteros/jboteros.svg)](http://hits.dwyl.com/jboteros/jboteros)
+
 
 ` 😄 Johnatan Botero Sannchez` |  `🌱 Medellín, Colombia` | <a href="https://www.linkedin.com/in/jboteros/" target="_blank"><img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/></a> `linkedin.com/in/jboteros/`
 
