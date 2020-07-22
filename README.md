@@ -4,23 +4,17 @@
 ` 😄 Johnatan Botero Sannchez` |  `🌱 Medellín, Colombia` | <a href="https://www.linkedin.com/in/jboteros/" target="_blank"><img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/></a> `linkedin.com/in/jboteros/`
 
 
-
-### Hi there 👋 
+### Hi there, I'm Johnatan Botero 👋 
 
 Senior mobile engineer with proven experience in the development of innovative products and interactive projects, focusing on applications for Android and iOS devices.
 
+- 🔭 I’m currently working on https://tango.io/ 
+- 🌱 I’m currently learning **Ruby on Rails**
+- 👯 I’m looking to collaborate on Open-Sourced Projects
+- 🤔 I’m looking for help with Ruby on Rails.
+- 💬 Ask me about Mobile Development 
+- 📫 How to reach me: johnatan@jbotero.com
+- 😄 Pronouns: him/he
+- ⚡ Fun fact: I love playing video games, and developing as well.
 
-<!--
-**jboteros/jboteros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Pulkit's github stats](https://github-readme-stats.vercel.app/api?username=midopooler&show_icons=true&hide_border=true)
