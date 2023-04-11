@@ -8,10 +8,8 @@
 
 Senior mobile engineer with proven experience in the development of innovative products and interactive projects, focusing on applications for Android and iOS devices.
 
-- 🔭 I’m currently working on https://tango.io/ 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🔭 I’m currently working on https://modak.live/ 
 - 👯 I’m looking to collaborate on Open-Sourced Projects
-- 🤔 I’m looking for help with Ruby on Rails.
 - 💬 Ask me about Mobile Development 
 - 📫 How to reach me: johnatan@jbotero.com
 - 😄 Pronouns: him/he
