@@ -15,4 +15,4 @@ Senior mobile engineer with proven experience in the development of innovative p
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: I love playing video games, and developing as well.
 
-![Pulkit's github stats](https://github-readme-stats.vercel.app/api?username=jboteros&show_icons=true&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jboteros)](https://github.com/jboteros/github-readme-stats)
