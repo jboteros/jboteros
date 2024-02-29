@@ -18,3 +18,8 @@ Senior mobile engineer with proven experience in the development of innovative p
  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=jboteros&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
 
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=jboteros&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+
+
+### GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jboteros&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
